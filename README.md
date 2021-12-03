@@ -9,5 +9,5 @@
 `pip install lxml`
 
 Wordpress JWT Auth Plugin:
-https://tr.wordpress.org/plugins/jwt-authentication-for-wp-rest-api/
+https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/
 
